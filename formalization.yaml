@@ -35,7 +35,7 @@ sources:
       - "R. Diestel"
     type: "book"
     location: "Graduate Texts in Mathematics 173, Springer, Theorem 1.4.3"
-    relationship: "background"
+    relationship: "formalizes"
     note: "Form of the statement and proof followed here."
     license: "all rights reserved"
     author_endorsement: "n/a"
